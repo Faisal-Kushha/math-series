@@ -10,3 +10,9 @@ def test_fibonacci():
     actual = fibonacci(5)
     expected = "3"
     assert actual == expected
+
+
+def test_lucas():
+    actual = lucas(6)
+    expected = "11"
+    assert actual == expected
