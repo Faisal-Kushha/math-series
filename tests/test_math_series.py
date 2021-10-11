@@ -16,3 +16,15 @@ def test_lucas():
     actual = lucas(6)
     expected = "11"
     assert actual == expected
+
+
+def test_sum_series1():
+    actual = sum_series(6, 2, 1)
+    expected = "11"
+    assert actual == expected
+
+
+def test_sum_series2():
+    actual = sum_series(7, 0, 1)
+    expected = "8"
+    assert actual == expected
