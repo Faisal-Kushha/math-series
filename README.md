@@ -35,3 +35,5 @@ pytest
 Faisal Kushha
 
 ## Pull request
+
+https://github.com/Faisal-Kushha/math-series/pull/1
